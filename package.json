@@ -1,0 +1,1 @@
+{"name":"devin-bot","version":"1.0.0","description":"Personal Discord Bot for Random Things","main":"index.js","author":"Devin#4748","dependencies":{"discord.io":"https://github.com/woor/discord.io/tarball/gateway_v6","discord.js":"^14.11.0","winston":"^3.8.2"},"devDependencies":{"eslint":"^8.41.0"}}
